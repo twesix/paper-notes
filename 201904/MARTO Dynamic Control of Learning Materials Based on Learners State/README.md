@@ -18,6 +18,12 @@ E-learning使用数字资料来进行学习,
 
 教育, 注意力, EEG, 视线追踪
 
+## 关键内容
+
+Based on the above background, 
+we propose Multiple  Access measuRement TOwords learning (MARTO), 
+a  system to change the content of learning based on the concentration
+level of the learner using an Electroencephalogram (EEG)
 
 
  

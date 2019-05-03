@@ -18,3 +18,8 @@
 ## 关键词
 
 走神, 视线追踪, 用户模型, 注意力感知接口(attention-aware interfaces )
+
+## 关键内容
+When compounded with its high  frequency, MW can have serious consequences on  performance and productivity.
+Therefore, our goal is to  develop intelligent interfaces that detect and  combat MW in real-time.
+

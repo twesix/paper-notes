@@ -24,6 +24,12 @@
 作者认为, 构建这种模型的最大难处在于没有合适的语料库
 因此作者构建了一个符合要求的语料库
 就是满足摘要中提到的那些条件的语料库
+To our knowledge, this is the ﬁrst corpus of essays that are simultaneously
+ annotated with argument components, argument persuasiveness scores,
+ and related attributes.
+ 
+Argument trees: MajroClaim, Claims, Premises, Support, Attack.
+Compare with a Baseline model to observe the influence of argument component
 
 ## 结论
 
